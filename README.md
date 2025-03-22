@@ -1,4 +1,6 @@
-##  👋
+##  - 🤔 I’m looking for help with ... Structure in life and relationship 
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
 
 <!--
 **MrJazzmataz/MrJazzmataz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
